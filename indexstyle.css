@@ -1,0 +1,10 @@
+body
+{
+    margin: 0;
+}
+header
+{
+    background-image: url('banner1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
